@@ -1,5 +1,7 @@
 # 统计塔罗四元素理气 · statistical-tarot-elemental-reading
 
+当前方法版本：**v3.1**。更新内容见 [版本记录](CHANGELOG.md)，可下载的版本快照见 [GitHub Releases](https://github.com/Kico-Tachagemofet/statistical-tarot-elemental-reading/releases)。
+
 面向 AI Agent 的统计塔罗解读 Skill。一副塔罗分成火、水、风、土四个花色堆和一个大阿卡那堆，用操作系统随机源抽一千次；再按固定流程，从频数的偏离读到四元素各自的状态与相互作用，最后回到原问。脚本只负责抽取、统计和数据卡，解读由 Agent 按 `SKILL.md` 完成。
 
 - 只要抽取与统计页面、不需要解读：用已公开的 [statistical-tarot](https://github.com/Kico-Tachagemofet/statistical-tarot)，抽样口径相同。
