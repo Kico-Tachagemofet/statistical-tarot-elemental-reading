@@ -1,0 +1,881 @@
+[
+  {
+    "id": "atu_00_fool",
+    "card_class": "major_arcana",
+    "number_roman": "0",
+    "number_arabic": 0,
+    "name_traditional": "The Fool",
+    "book_t": {
+      "hebrew_letter": "Aleph",
+      "path_on_tree": 11,
+      "path_between": [
+        "Kether",
+        "Chokmah"
+      ],
+      "attribution": {
+        "type": "element",
+        "value": "Air"
+      },
+      "element": "Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "ruling_planet_of_sign": null,
+      "exaltation_in_sign": null,
+      "book_t_title": "The Spirit of Aithyr",
+      "book_t_summary": "In spiritual matters, it points to thought and spirituality aspiring beyond earth; in material matters, to folly or eccentricity.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Foolish Man; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Book T gives an elemental attribution directly."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_01_magician",
+    "card_class": "major_arcana",
+    "number_roman": "I",
+    "number_arabic": 1,
+    "name_traditional": "The Magician",
+    "book_t": {
+      "hebrew_letter": "Bet",
+      "path_on_tree": 12,
+      "path_between": [
+        "Kether",
+        "Binah"
+      ],
+      "attribution": {
+        "type": "planet",
+        "value": "Mercury"
+      },
+      "element": null,
+      "primary_qualities": [
+        "variable"
+      ],
+      "ruling_planet_of_sign": null,
+      "exaltation_in_sign": null,
+      "book_t_title": "The Magus of Power",
+      "book_t_summary": "Skill, wisdom, adaptation, craft, cunning, and occult power.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Magician; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Primary qualities use traditional planetary qualities derived from classical sources (Lilly, Aristotle)."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_02_high_priestess",
+    "card_class": "major_arcana",
+    "number_roman": "II",
+    "number_arabic": 2,
+    "name_traditional": "The High Priestess",
+    "book_t": {
+      "hebrew_letter": "Gimel",
+      "path_on_tree": 13,
+      "path_between": [
+        "Kether",
+        "Tiphareth"
+      ],
+      "attribution": {
+        "type": "planet",
+        "value": "Moon"
+      },
+      "element": null,
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "ruling_planet_of_sign": null,
+      "exaltation_in_sign": null,
+      "book_t_title": "The Priestess of the Silver Star",
+      "book_t_summary": "Change, alternation, increase and decrease, with dignity determining good or evil.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The High Priestess; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Primary qualities use traditional planetary qualities derived from classical sources (Lilly, Aristotle)."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_03_empress",
+    "card_class": "major_arcana",
+    "number_roman": "III",
+    "number_arabic": 3,
+    "name_traditional": "The Empress",
+    "book_t": {
+      "hebrew_letter": "Dalet",
+      "path_on_tree": 14,
+      "path_between": [
+        "Chokmah",
+        "Binah"
+      ],
+      "attribution": {
+        "type": "planet",
+        "value": "Venus"
+      },
+      "element": null,
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "ruling_planet_of_sign": null,
+      "exaltation_in_sign": null,
+      "book_t_title": "The Daughter of the Mighty Ones",
+      "book_t_summary": "Beauty, happiness, pleasure and success; with very bad dignity, luxury or dissipation.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Empress; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Primary qualities use traditional planetary qualities derived from classical sources (Lilly, Aristotle)."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_04_emperor",
+    "card_class": "major_arcana",
+    "number_roman": "IV",
+    "number_arabic": 4,
+    "name_traditional": "The Emperor",
+    "book_t": {
+      "hebrew_letter": "Heh",
+      "path_on_tree": 15,
+      "path_between": [
+        "Chokmah",
+        "Tiphareth"
+      ],
+      "attribution": {
+        "type": "zodiac_sign",
+        "value": "Aries"
+      },
+      "element": "Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "ruling_planet_of_sign": "Mars",
+      "exaltation_in_sign": "Sun",
+      "book_t_title": "Sun of the Morning, chief among the Mighty",
+      "book_t_summary": "War, conquest, victory, strife and ambition.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Emperor; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Element and primary qualities follow the zodiacal attribution confirmed in the Book T title table."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_05_hierophant",
+    "card_class": "major_arcana",
+    "number_roman": "V",
+    "number_arabic": 5,
+    "name_traditional": "The Hierophant",
+    "book_t": {
+      "hebrew_letter": "Vau",
+      "path_on_tree": 16,
+      "path_between": [
+        "Chokmah",
+        "Chesed"
+      ],
+      "attribution": {
+        "type": "zodiac_sign",
+        "value": "Taurus"
+      },
+      "element": "Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "ruling_planet_of_sign": "Venus",
+      "exaltation_in_sign": "Moon",
+      "book_t_title": "The Magus of the Eternal",
+      "book_t_summary": "Divine wisdom, manifestation, explanation, teaching, and voluntarily invoked occult force.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Hierophant; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Element and primary qualities follow the zodiacal attribution confirmed in the Book T title table."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_06_lovers",
+    "card_class": "major_arcana",
+    "number_roman": "VI",
+    "number_arabic": 6,
+    "name_traditional": "The Lovers",
+    "book_t": {
+      "hebrew_letter": "Zain",
+      "path_on_tree": 17,
+      "path_between": [
+        "Binah",
+        "Tiphareth"
+      ],
+      "attribution": {
+        "type": "zodiac_sign",
+        "value": "Gemini"
+      },
+      "element": "Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "ruling_planet_of_sign": "Mercury",
+      "exaltation_in_sign": null,
+      "book_t_title": "The Children of the Voice; the Oracles of the Mighty Gods",
+      "book_t_summary": "Passive or mediumistic inspiration, motive power, and action.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Lovers; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Element and primary qualities follow the zodiacal attribution confirmed in the Book T title table."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_07_chariot",
+    "card_class": "major_arcana",
+    "number_roman": "VII",
+    "number_arabic": 7,
+    "name_traditional": "The Chariot",
+    "book_t": {
+      "hebrew_letter": "Chet",
+      "path_on_tree": 18,
+      "path_between": [
+        "Binah",
+        "Geburah"
+      ],
+      "attribution": {
+        "type": "zodiac_sign",
+        "value": "Cancer"
+      },
+      "element": "Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "ruling_planet_of_sign": "Moon",
+      "exaltation_in_sign": "Jupiter",
+      "book_t_title": "The Child of the Powers of the Waters; the Lord of the Triumph of Light",
+      "book_t_summary": "Triumph, victory and health, sometimes unstable.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Chariot; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Element and primary qualities follow the zodiacal attribution confirmed in the Book T title table."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_08_justice",
+    "card_class": "major_arcana",
+    "number_roman": "VIII",
+    "number_arabic": 8,
+    "name_traditional": "Justice",
+    "book_t": {
+      "hebrew_letter": "Lamed",
+      "path_on_tree": 22,
+      "path_between": [
+        "Geburah",
+        "Tiphareth"
+      ],
+      "attribution": {
+        "type": "zodiac_sign",
+        "value": "Libra"
+      },
+      "element": "Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "ruling_planet_of_sign": "Venus",
+      "exaltation_in_sign": "Saturn",
+      "book_t_title": "The Daughter of the Lords of Truth: the Ruler of the Balance",
+      "book_t_summary": "Eternal justice and force arrested in judgment, including law or trial.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - Justice; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Element and primary qualities follow the zodiacal attribution confirmed in the Book T title table."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_09_hermit",
+    "card_class": "major_arcana",
+    "number_roman": "IX",
+    "number_arabic": 9,
+    "name_traditional": "The Hermit",
+    "book_t": {
+      "hebrew_letter": "Yod",
+      "path_on_tree": 20,
+      "path_between": [
+        "Chesed",
+        "Tiphareth"
+      ],
+      "attribution": {
+        "type": "zodiac_sign",
+        "value": "Virgo"
+      },
+      "element": "Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "ruling_planet_of_sign": "Mercury",
+      "exaltation_in_sign": "Mercury",
+      "book_t_title": "The Magus of the Voice of Power, the Prophet of the Eternal",
+      "book_t_summary": "Wisdom from on high and active divine inspiration, sometimes an unexpected current.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Hermit; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Element and primary qualities follow the zodiacal attribution confirmed in the Book T title table."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_10_wheel_of_fate",
+    "card_class": "major_arcana",
+    "number_roman": "X",
+    "number_arabic": 10,
+    "name_traditional": "The Wheel of Fate",
+    "book_t": {
+      "hebrew_letter": "Koph",
+      "path_on_tree": 21,
+      "path_between": [
+        "Chesed",
+        "Netzach"
+      ],
+      "attribution": {
+        "type": "planet",
+        "value": "Jupiter"
+      },
+      "element": null,
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "ruling_planet_of_sign": null,
+      "exaltation_in_sign": null,
+      "book_t_title": "The Lord of the Forces of Life",
+      "book_t_summary": "Good fortune and happiness within bounds, with success that can intoxicate.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Wheel; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Primary qualities use traditional planetary qualities derived from classical sources (Lilly, Aristotle)."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_11_fortitude",
+    "card_class": "major_arcana",
+    "number_roman": "XI",
+    "number_arabic": 11,
+    "name_traditional": "Fortitude",
+    "book_t": {
+      "hebrew_letter": "Tet",
+      "path_on_tree": 19,
+      "path_between": [
+        "Chesed",
+        "Geburah"
+      ],
+      "attribution": {
+        "type": "zodiac_sign",
+        "value": "Leo"
+      },
+      "element": "Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "ruling_planet_of_sign": "Sun",
+      "exaltation_in_sign": null,
+      "book_t_title": "The Daughter of the Flaming Sword",
+      "book_t_summary": "Courage, strength, fortitude and power passing into action, with obstinacy.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - Fortitude; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Element and primary qualities follow the zodiacal attribution confirmed in the Book T title table."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_12_hanged_man",
+    "card_class": "major_arcana",
+    "number_roman": "XII",
+    "number_arabic": 12,
+    "name_traditional": "The Hanged Man",
+    "book_t": {
+      "hebrew_letter": "Mem",
+      "path_on_tree": 23,
+      "path_between": [
+        "Geburah",
+        "Hod"
+      ],
+      "attribution": {
+        "type": "element",
+        "value": "Water"
+      },
+      "element": "Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "ruling_planet_of_sign": null,
+      "exaltation_in_sign": null,
+      "book_t_title": "The Spirit of the Mighty Waters",
+      "book_t_summary": "Enforced sacrifice, punishment, loss and involuntary suffering.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Hanged Man; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Book T gives an elemental attribution directly."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_13_death",
+    "card_class": "major_arcana",
+    "number_roman": "XIII",
+    "number_arabic": 13,
+    "name_traditional": "Death",
+    "book_t": {
+      "hebrew_letter": "Nun",
+      "path_on_tree": 24,
+      "path_between": [
+        "Tiphareth",
+        "Netzach"
+      ],
+      "attribution": {
+        "type": "zodiac_sign",
+        "value": "Scorpio"
+      },
+      "element": "Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "ruling_planet_of_sign": "Mars",
+      "exaltation_in_sign": null,
+      "book_t_title": "The Child of the Great Transformers: the Lord of the Gates of Death",
+      "book_t_summary": "Time, age and involuntary transformation, including death or destruction with special cards.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - Death; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Element and primary qualities follow the zodiacal attribution confirmed in the Book T title table."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_14_temperance",
+    "card_class": "major_arcana",
+    "number_roman": "XIV",
+    "number_arabic": 14,
+    "name_traditional": "Temperance",
+    "book_t": {
+      "hebrew_letter": "Samekh",
+      "path_on_tree": 25,
+      "path_between": [
+        "Tiphareth",
+        "Yesod"
+      ],
+      "attribution": {
+        "type": "zodiac_sign",
+        "value": "Sagittarius"
+      },
+      "element": "Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "ruling_planet_of_sign": "Jupiter",
+      "exaltation_in_sign": null,
+      "book_t_title": "The Daughter of the Reconcilers: the Bringer-Forth of Life",
+      "book_t_summary": "Combination of forces, realization and material effect, for good or evil.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - Temperance; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Element and primary qualities follow the zodiacal attribution confirmed in the Book T title table."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_15_devil",
+    "card_class": "major_arcana",
+    "number_roman": "XV",
+    "number_arabic": 15,
+    "name_traditional": "The Devil",
+    "book_t": {
+      "hebrew_letter": "Ayin",
+      "path_on_tree": 26,
+      "path_between": [
+        "Tiphareth",
+        "Hod"
+      ],
+      "attribution": {
+        "type": "zodiac_sign",
+        "value": "Capricorn"
+      },
+      "element": "Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "ruling_planet_of_sign": "Saturn",
+      "exaltation_in_sign": "Mars",
+      "book_t_title": "The Lord of the Gates of Matter: the Child of the Forces of Time",
+      "book_t_summary": "Materiality, material force, temptation and obsession.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Devil; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Element and primary qualities follow the zodiacal attribution confirmed in the Book T title table."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_16_blasted_tower",
+    "card_class": "major_arcana",
+    "number_roman": "XVI",
+    "number_arabic": 16,
+    "name_traditional": "The Blasted Tower",
+    "book_t": {
+      "hebrew_letter": "Peh",
+      "path_on_tree": 27,
+      "path_between": [
+        "Netzach",
+        "Hod"
+      ],
+      "attribution": {
+        "type": "planet",
+        "value": "Mars"
+      },
+      "element": null,
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "ruling_planet_of_sign": null,
+      "exaltation_in_sign": null,
+      "book_t_title": "The Lord of the Hosts of the Mighty",
+      "book_t_summary": "Ambition, fighting, war, courage, or destruction, danger, fall and ruin.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Blasted Tower; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Primary qualities use traditional planetary qualities derived from classical sources (Lilly, Aristotle)."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_17_star",
+    "card_class": "major_arcana",
+    "number_roman": "XVII",
+    "number_arabic": 17,
+    "name_traditional": "The Star",
+    "book_t": {
+      "hebrew_letter": "Tzaddi",
+      "path_on_tree": 28,
+      "path_between": [
+        "Netzach",
+        "Yesod"
+      ],
+      "attribution": {
+        "type": "zodiac_sign",
+        "value": "Aquarius"
+      },
+      "element": "Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "ruling_planet_of_sign": "Saturn",
+      "exaltation_in_sign": null,
+      "book_t_title": "The Daughter of the Firmament, the Dweller between the Waters",
+      "book_t_summary": "Hope, faith and unexpected help, or dreaminess and deceived hope.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Star; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Element and primary qualities follow the zodiacal attribution confirmed in the Book T title table."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_18_moon",
+    "card_class": "major_arcana",
+    "number_roman": "XVIII",
+    "number_arabic": 18,
+    "name_traditional": "The Moon",
+    "book_t": {
+      "hebrew_letter": "Qof",
+      "path_on_tree": 29,
+      "path_between": [
+        "Netzach",
+        "Malkuth"
+      ],
+      "attribution": {
+        "type": "zodiac_sign",
+        "value": "Pisces"
+      },
+      "element": "Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "ruling_planet_of_sign": "Jupiter",
+      "exaltation_in_sign": "Venus",
+      "book_t_title": "The Ruler of Flux and Reflux: the Child of the Sons of the Mighty",
+      "book_t_summary": "Dissatisfaction, voluntary change, error, lying, falsity and deception; the card is very sensitive to dignity.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Moon; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Element and primary qualities follow the zodiacal attribution confirmed in the Book T title table."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_19_sun",
+    "card_class": "major_arcana",
+    "number_roman": "XIX",
+    "number_arabic": 19,
+    "name_traditional": "The Sun",
+    "book_t": {
+      "hebrew_letter": "Resh",
+      "path_on_tree": 30,
+      "path_between": [
+        "Hod",
+        "Yesod"
+      ],
+      "attribution": {
+        "type": "planet",
+        "value": "Sun"
+      },
+      "element": null,
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "ruling_planet_of_sign": null,
+      "exaltation_in_sign": null,
+      "book_t_title": "The Lord of the Fire of the World",
+      "book_t_summary": "Glory, gain and riches, or arrogance and vanity with very evil cards.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Sun; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Primary qualities use traditional planetary qualities derived from classical sources (Lilly, Aristotle)."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_20_judgment",
+    "card_class": "major_arcana",
+    "number_roman": "XX",
+    "number_arabic": 20,
+    "name_traditional": "The Judgment",
+    "book_t": {
+      "hebrew_letter": "Shin",
+      "path_on_tree": 31,
+      "path_between": [
+        "Hod",
+        "Malkuth"
+      ],
+      "attribution": {
+        "type": "element",
+        "value": "Spirit and Fire"
+      },
+      "element": "Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "ruling_planet_of_sign": null,
+      "exaltation_in_sign": null,
+      "book_t_title": "The Spirit of the Primal Fire",
+      "book_t_summary": "Final decision, judgment, sentence and determination without appeal on its plane.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Judgment; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Book T gives Shin as Spirit and Fire; Fire supplies the recorded elemental qualities."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "atu_21_universe",
+    "card_class": "major_arcana",
+    "number_roman": "XXI",
+    "number_arabic": 21,
+    "name_traditional": "The Universe",
+    "book_t": {
+      "hebrew_letter": "Taw",
+      "path_on_tree": 32,
+      "path_between": [
+        "Yesod",
+        "Malkuth"
+      ],
+      "attribution": {
+        "type": "element",
+        "value": "Earth and Saturn"
+      },
+      "element": "Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "ruling_planet_of_sign": null,
+      "exaltation_in_sign": null,
+      "book_t_title": "The Great One of the Night of Time",
+      "book_t_summary": "The matter itself: synthesis, world or kingdom, depending on accompanying cards.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Twenty-Two Keys of the Book - The Universe; Brief Meanings of Twenty-Two Keys",
+        "page": null
+      },
+      "notes": "Book T gives Taw as Earth and Saturn; Earth supplies the recorded elemental qualities."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  }
+]

@@ -1,0 +1,1582 @@
+[
+  {
+    "id": "ace_wands",
+    "card_class": "minor_pip",
+    "suit": "wands",
+    "number": 1,
+    "book_t": {
+      "sephira": "Kether",
+      "sephira_qualities": [
+        "root",
+        "radical force",
+        "force of spirit"
+      ],
+      "world": "Atziluth",
+      "element": "Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "decan": null,
+      "decan_dignity": null,
+      "book_t_title": "Root of the Powers of Fire",
+      "book_t_summary": "The root of Fire is presented as natural force: strength, rush, vigor, and energy in works and questions governed by its nature.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: Of the Aces - Ace of Wands",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "ace_cups",
+    "card_class": "minor_pip",
+    "suit": "cups",
+    "number": 1,
+    "book_t": {
+      "sephira": "Kether",
+      "sephira_qualities": [
+        "root",
+        "radical force",
+        "force of spirit"
+      ],
+      "world": "Briah",
+      "element": "Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "decan": null,
+      "decan_dignity": null,
+      "book_t_title": "Root of the Powers of the Waters",
+      "book_t_summary": "The root of Water is described through flowing water and lotuses, symbolizing fertility, productiveness, beauty, pleasure, and happiness.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: Of the Aces - Ace of Cups",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "ace_swords",
+    "card_class": "minor_pip",
+    "suit": "swords",
+    "number": 1,
+    "book_t": {
+      "sephira": "Kether",
+      "sephira_qualities": [
+        "root",
+        "radical force",
+        "force of spirit"
+      ],
+      "world": "Yetzirah",
+      "element": "Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "decan": null,
+      "decan_dignity": null,
+      "book_t_title": "Root of the Powers of the Air",
+      "book_t_summary": "The root of Air represents invoked force and great power for good or evil, with strength through trouble and justice upholding authority.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: Of the Aces - Ace of Swords",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "ace_disks",
+    "card_class": "minor_pip",
+    "suit": "disks",
+    "number": 1,
+    "book_t": {
+      "sephira": "Kether",
+      "sephira_qualities": [
+        "root",
+        "radical force",
+        "force of spirit"
+      ],
+      "world": "Assiah",
+      "element": "Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "decan": null,
+      "decan_dignity": null,
+      "book_t_title": "Root of the Powers of Earth",
+      "book_t_summary": "The root of Earth represents materiality in good and evil senses, including material gain, labor, power, and wealth.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: Of the Aces - Ace of Pentacles",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "5_wands",
+    "card_class": "minor_pip",
+    "suit": "wands",
+    "number": 5,
+    "book_t": {
+      "sephira": "Geburah",
+      "sephira_qualities": [
+        "severity",
+        "restriction",
+        "judgment",
+        "fire of severity"
+      ],
+      "world": "Atziluth",
+      "element": "Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Saturn",
+        "sign": "Leo",
+        "span_degrees": "0-10 degrees",
+        "span_dates_approx": "Jul 22 - Aug 1"
+      },
+      "decan_dignity": "Saturn in detriment in Leo (Leo is ruled by the Sun; Saturn rules the opposite sign Aquarius)",
+      "book_t_title": "Lord of Strife",
+      "book_t_summary": "Depicts forceful conflict: boldness and violent struggle that may show as cruelty or generosity according to dignity.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Wands - 5 of Wands",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "6_wands",
+    "card_class": "minor_pip",
+    "suit": "wands",
+    "number": 6,
+    "book_t": {
+      "sephira": "Tiphareth",
+      "sephira_qualities": [
+        "definite accomplishment",
+        "thing carried out"
+      ],
+      "world": "Atziluth",
+      "element": "Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Jupiter",
+        "sign": "Leo",
+        "span_degrees": "10-20 degrees",
+        "span_dates_approx": "Aug 2 - Aug 11"
+      },
+      "decan_dignity": "Jupiter has no major essential dignity or debility in Leo",
+      "book_t_title": "Lord of Victory",
+      "book_t_summary": "Shows victory after strife: gain, pleasure won by labor, sociability and care to avoid conflict, with pride possible by dignity.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Wands - 6 of Wands",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "7_wands",
+    "card_class": "minor_pip",
+    "suit": "wands",
+    "number": 7,
+    "book_t": {
+      "sephira": "Netzach",
+      "sephira_qualities": [
+        "force beyond the material plane",
+        "possible result",
+        "dependent on action taken"
+      ],
+      "world": "Atziluth",
+      "element": "Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Mars",
+        "sign": "Leo",
+        "span_degrees": "20-30 degrees",
+        "span_dates_approx": "Aug 12 - Aug 22"
+      },
+      "decan_dignity": "Mars has no major essential dignity or debility in Leo",
+      "book_t_title": "Lord of Valour",
+      "book_t_summary": "Shows victory possible through energy and courage amid opposition, obstacles, and quarrelling.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Wands - 7 of Wands",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "8_disks",
+    "card_class": "minor_pip",
+    "suit": "disks",
+    "number": 8,
+    "book_t": {
+      "sephira": "Hod",
+      "sephira_qualities": [
+        "solitary success",
+        "temporary success",
+        "limited result"
+      ],
+      "world": "Assiah",
+      "element": "Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Sun",
+        "sign": "Virgo",
+        "span_degrees": "0-10 degrees",
+        "span_dates_approx": "Aug 23 - Sep 1"
+      },
+      "decan_dignity": "Sun has no major essential dignity or debility in Virgo",
+      "book_t_title": "Lord of Prudence",
+      "book_t_summary": "Shows prudence in small matters: skill, careful labor, small gains, hoarding and lack of larger enterprise.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Pentacles - 8 of Pentacles",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "9_disks",
+    "card_class": "minor_pip",
+    "suit": "disks",
+    "number": 9,
+    "book_t": {
+      "sephira": "Yesod",
+      "sephira_qualities": [
+        "fundamental force",
+        "executive power",
+        "firm basis"
+      ],
+      "world": "Assiah",
+      "element": "Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Venus",
+        "sign": "Virgo",
+        "span_degrees": "10-20 degrees",
+        "span_dates_approx": "Sep 2 - Sep 11"
+      },
+      "decan_dignity": "Venus in fall in Virgo",
+      "book_t_title": "Lord of Material Gain",
+      "book_t_summary": "Shows complete material gain: riches or inheritance, with covetousness or knavery possible by dignity.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Pentacles - 9 of Pentacles",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "10_disks",
+    "card_class": "minor_pip",
+    "suit": "disks",
+    "number": 10,
+    "book_t": {
+      "sephira": "Malkuth",
+      "sephira_qualities": [
+        "fixed complete force",
+        "culmination",
+        "definite determination"
+      ],
+      "world": "Assiah",
+      "element": "Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Mercury",
+        "sign": "Virgo",
+        "span_degrees": "20-30 degrees",
+        "span_dates_approx": "Sep 12 - Sep 22"
+      },
+      "decan_dignity": "Mercury in domicile in Virgo",
+      "book_t_title": "Lord of Wealth",
+      "book_t_summary": "Shows completion of material fortune at its pinnacle, with wealth, heaviness, and cleverness in money matters.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Pentacles - 10 of Pentacles",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "2_swords",
+    "card_class": "minor_pip",
+    "suit": "swords",
+    "number": 2,
+    "book_t": {
+      "sephira": "Chokmah",
+      "sephira_qualities": [
+        "initiation",
+        "fecundation",
+        "force just uniting"
+      ],
+      "world": "Yetzirah",
+      "element": "Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Moon",
+        "sign": "Libra",
+        "span_degrees": "0-10 degrees",
+        "span_dates_approx": "Sep 23 - Oct 2"
+      },
+      "decan_dignity": "Moon has no major essential dignity or debility in Libra",
+      "book_t_title": "Lord of Peace Restored",
+      "book_t_summary": "Shows peace restored through tension: strength from suffering, truce, arrangement, justice, and mixed truth and untruth.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Swords - 2 of Swords",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "3_swords",
+    "card_class": "minor_pip",
+    "suit": "swords",
+    "number": 3,
+    "book_t": {
+      "sephira": "Binah",
+      "sephira_qualities": [
+        "realization of action",
+        "action definitely commenced"
+      ],
+      "world": "Yetzirah",
+      "element": "Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Saturn",
+        "sign": "Libra",
+        "span_degrees": "10-20 degrees",
+        "span_dates_approx": "Oct 3 - Oct 12"
+      },
+      "decan_dignity": "Saturn in exaltation in Libra",
+      "book_t_title": "Lord of Sorrow",
+      "book_t_summary": "Shows disruption and sorrow: separation, quarrelling, discord and tears, with dignity modifying the outcome.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Swords - 3 of Swords",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "4_swords",
+    "card_class": "minor_pip",
+    "suit": "swords",
+    "number": 4,
+    "book_t": {
+      "sephira": "Chesed",
+      "sephira_qualities": [
+        "perfection",
+        "realization",
+        "completion",
+        "settled force"
+      ],
+      "world": "Yetzirah",
+      "element": "Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Jupiter",
+        "sign": "Libra",
+        "span_degrees": "20-30 degrees",
+        "span_dates_approx": "Oct 13 - Oct 22"
+      },
+      "decan_dignity": "Jupiter has no major essential dignity or debility in Libra",
+      "book_t_title": "Lord of Rest from Strife",
+      "book_t_summary": "Shows rest after strife: quiet, recovery, ease and abundance following sorrow or struggle.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Swords - 4 of Swords",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "5_cups",
+    "card_class": "minor_pip",
+    "suit": "cups",
+    "number": 5,
+    "book_t": {
+      "sephira": "Geburah",
+      "sephira_qualities": [
+        "opposition",
+        "strife",
+        "struggle",
+        "obstacle"
+      ],
+      "world": "Briah",
+      "element": "Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Mars",
+        "sign": "Scorpio",
+        "span_degrees": "0-10 degrees",
+        "span_dates_approx": "Oct 23 - Nov 1"
+      },
+      "decan_dignity": "Mars in domicile in Scorpio",
+      "book_t_title": "Lord of Loss in Pleasure",
+      "book_t_summary": "Shows the end of expected pleasure: disappointment, loss, treachery, and anxieties from unexpected sources.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Cups - 5 of Cups",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "6_cups",
+    "card_class": "minor_pip",
+    "suit": "cups",
+    "number": 6,
+    "book_t": {
+      "sephira": "Tiphareth",
+      "sephira_qualities": [
+        "definite accomplishment",
+        "thing carried out"
+      ],
+      "world": "Briah",
+      "element": "Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Sun",
+        "sign": "Scorpio",
+        "span_degrees": "10-20 degrees",
+        "span_dates_approx": "Nov 2 - Nov 12"
+      },
+      "decan_dignity": "Sun has no major essential dignity or debility in Scorpio",
+      "book_t_title": "Lord of Pleasure",
+      "book_t_summary": "Shows the beginning of steady increase and pleasure, with success or enjoyment only at its commencement.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Cups - 6 of Cups",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "7_cups",
+    "card_class": "minor_pip",
+    "suit": "cups",
+    "number": 7,
+    "book_t": {
+      "sephira": "Netzach",
+      "sephira_qualities": [
+        "force beyond the material plane",
+        "possible result",
+        "dependent on action taken"
+      ],
+      "world": "Briah",
+      "element": "Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Venus",
+        "sign": "Scorpio",
+        "span_degrees": "20-30 degrees",
+        "span_dates_approx": "Nov 13 - Nov 22"
+      },
+      "decan_dignity": "Venus in detriment in Scorpio",
+      "book_t_title": "Lord of Illusionary Success",
+      "book_t_summary": "Shows apparent but unstable victory: deception, unfulfilled promises, dissipation, and success not followed up.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Cups - 7 of Cups",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "8_wands",
+    "card_class": "minor_pip",
+    "suit": "wands",
+    "number": 8,
+    "book_t": {
+      "sephira": "Hod",
+      "sephira_qualities": [
+        "solitary success",
+        "temporary success",
+        "limited result"
+      ],
+      "world": "Atziluth",
+      "element": "Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Mercury",
+        "sign": "Sagittarius",
+        "span_degrees": "0-10 degrees",
+        "span_dates_approx": "Nov 23 - Dec 2"
+      },
+      "decan_dignity": "Mercury in detriment in Sagittarius",
+      "book_t_title": "Lord of Swiftness",
+      "book_t_summary": "Shows force applied suddenly: rapid action, swiftness, courage and boldness, but not lasting and dignity-dependent.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Wands - 8 of Wands",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "9_wands",
+    "card_class": "minor_pip",
+    "suit": "wands",
+    "number": 9,
+    "book_t": {
+      "sephira": "Yesod",
+      "sephira_qualities": [
+        "fundamental force",
+        "executive power",
+        "firm basis"
+      ],
+      "world": "Atziluth",
+      "element": "Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Moon",
+        "sign": "Sagittarius",
+        "span_degrees": "10-20 degrees",
+        "span_dates_approx": "Dec 3 - Dec 12"
+      },
+      "decan_dignity": "Moon has no major essential dignity or debility in Sagittarius",
+      "book_t_title": "Lord of Great Strength",
+      "book_t_summary": "Shows tremendous steady force, strength and recovery, with success after apprehension and strife.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Wands - 9 of Wands",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "10_wands",
+    "card_class": "minor_pip",
+    "suit": "wands",
+    "number": 10,
+    "book_t": {
+      "sephira": "Malkuth",
+      "sephira_qualities": [
+        "fixed complete force",
+        "culmination",
+        "definite determination"
+      ],
+      "world": "Atziluth",
+      "element": "Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Saturn",
+        "sign": "Sagittarius",
+        "span_degrees": "20-30 degrees",
+        "span_dates_approx": "Dec 13 - Dec 21"
+      },
+      "decan_dignity": "Saturn has no major essential dignity or debility in Sagittarius",
+      "book_t_title": "Lord of Oppression",
+      "book_t_summary": "Shows overbearing force aimed at material or selfish ends, with failure from excessive opposition or, when well dignified, self-sacrifice.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Wands - 10 of Wands",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "2_disks",
+    "card_class": "minor_pip",
+    "suit": "disks",
+    "number": 2,
+    "book_t": {
+      "sephira": "Chokmah",
+      "sephira_qualities": [
+        "initiation",
+        "fecundation",
+        "force just uniting"
+      ],
+      "world": "Assiah",
+      "element": "Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Jupiter",
+        "sign": "Capricorn",
+        "span_degrees": "0-10 degrees",
+        "span_dates_approx": "Dec 22 - Dec 30"
+      },
+      "decan_dignity": "Jupiter in fall in Capricorn",
+      "book_t_title": "Lord of Harmonious Change",
+      "book_t_summary": "Shows harmonious change: alternating gain and loss, shifting occupation, travel, prudence and inconsistency.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Pentacles - 2 of Pentacles",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "3_disks",
+    "card_class": "minor_pip",
+    "suit": "disks",
+    "number": 3,
+    "book_t": {
+      "sephira": "Binah",
+      "sephira_qualities": [
+        "realization of action",
+        "action definitely commenced"
+      ],
+      "world": "Assiah",
+      "element": "Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Mars",
+        "sign": "Capricorn",
+        "span_degrees": "10-20 degrees",
+        "span_dates_approx": "Dec 31 - Jan 9"
+      },
+      "decan_dignity": "Mars in exaltation in Capricorn",
+      "book_t_title": "Lord of Material Works",
+      "book_t_summary": "Shows constructive material work: building, increase, commercial gain, influence and the start of matters later established.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Pentacles - 3 of Pentacles",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "4_disks",
+    "card_class": "minor_pip",
+    "suit": "disks",
+    "number": 4,
+    "book_t": {
+      "sephira": "Chesed",
+      "sephira_qualities": [
+        "perfection",
+        "realization",
+        "completion",
+        "settled force"
+      ],
+      "world": "Assiah",
+      "element": "Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Sun",
+        "sign": "Capricorn",
+        "span_degrees": "20-30 degrees",
+        "span_dates_approx": "Jan 10 - Jan 19"
+      },
+      "decan_dignity": "Sun has no major essential dignity or debility in Capricorn",
+      "book_t_title": "Lord of Earthly Power",
+      "book_t_summary": "Shows assured material gain and earthly power: completed success that tends not to develop further.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Pentacles - 4 of Pentacles",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "5_swords",
+    "card_class": "minor_pip",
+    "suit": "swords",
+    "number": 5,
+    "book_t": {
+      "sephira": "Geburah",
+      "sephira_qualities": [
+        "opposition",
+        "strife",
+        "struggle",
+        "obstacle"
+      ],
+      "world": "Yetzirah",
+      "element": "Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Venus",
+        "sign": "Aquarius",
+        "span_degrees": "0-10 degrees",
+        "span_dates_approx": "Jan 20 - Jan 29"
+      },
+      "decan_dignity": "Venus has no major essential dignity or debility in Aquarius",
+      "book_t_title": "Lord of Defeat",
+      "book_t_summary": "Shows contest decided against the person: defeat, trouble, loss, malice and separation, with cleverness also noted.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Swords - 5 of Swords",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "6_swords",
+    "card_class": "minor_pip",
+    "suit": "swords",
+    "number": 6,
+    "book_t": {
+      "sephira": "Tiphareth",
+      "sephira_qualities": [
+        "definite accomplishment",
+        "thing carried out"
+      ],
+      "world": "Yetzirah",
+      "element": "Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Mercury",
+        "sign": "Aquarius",
+        "span_degrees": "10-20 degrees",
+        "span_dates_approx": "Jan 30 - Feb 8"
+      },
+      "decan_dignity": "Mercury has no major essential dignity or debility in Aquarius",
+      "book_t_title": "Lord of Earned Success",
+      "book_t_summary": "Shows success earned after anxiety and trouble, with labor, patience, journeying by water, and self-regard.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Swords - 6 of Swords",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "7_swords",
+    "card_class": "minor_pip",
+    "suit": "swords",
+    "number": 7,
+    "book_t": {
+      "sephira": "Netzach",
+      "sephira_qualities": [
+        "force beyond the material plane",
+        "possible result",
+        "dependent on action taken"
+      ],
+      "world": "Yetzirah",
+      "element": "Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Moon",
+        "sign": "Aquarius",
+        "span_degrees": "20-30 degrees",
+        "span_dates_approx": "Feb 9 - Feb 18"
+      },
+      "decan_dignity": "Moon has no major essential dignity or debility in Aquarius",
+      "book_t_title": "Lord of Unstable Effort",
+      "book_t_summary": "Shows partial success and effort abandoned near victory, with unreliable or vacillating tendencies.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Swords - 7 of Swords",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "8_cups",
+    "card_class": "minor_pip",
+    "suit": "cups",
+    "number": 8,
+    "book_t": {
+      "sephira": "Hod",
+      "sephira_qualities": [
+        "solitary success",
+        "temporary success",
+        "limited result"
+      ],
+      "world": "Briah",
+      "element": "Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Saturn",
+        "sign": "Pisces",
+        "span_degrees": "0-10 degrees",
+        "span_dates_approx": "Feb 19 - Feb 28"
+      },
+      "decan_dignity": "Saturn has no major essential dignity or debility in Pisces",
+      "book_t_title": "Lord of Abandoned Success",
+      "book_t_summary": "Shows temporary success without lasting result, with interest declining after the thing is gained.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Cups - 8 of Cups",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "9_cups",
+    "card_class": "minor_pip",
+    "suit": "cups",
+    "number": 9,
+    "book_t": {
+      "sephira": "Yesod",
+      "sephira_qualities": [
+        "fundamental force",
+        "executive power",
+        "firm basis"
+      ],
+      "world": "Briah",
+      "element": "Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Jupiter",
+        "sign": "Pisces",
+        "span_degrees": "10-20 degrees",
+        "span_dates_approx": "Mar 1 - Mar 10"
+      },
+      "decan_dignity": "Jupiter in domicile in Pisces",
+      "book_t_title": "Lord of Material Happiness",
+      "book_t_summary": "Shows nearly complete realization of pleasure and happiness, with self-praise or vanity possible by dignity.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Cups - 9 of Cups",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "10_cups",
+    "card_class": "minor_pip",
+    "suit": "cups",
+    "number": 10,
+    "book_t": {
+      "sephira": "Malkuth",
+      "sephira_qualities": [
+        "fixed complete force",
+        "culmination",
+        "definite determination"
+      ],
+      "world": "Briah",
+      "element": "Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Mars",
+        "sign": "Pisces",
+        "span_degrees": "20-30 degrees",
+        "span_dates_approx": "Mar 11 - Mar 20"
+      },
+      "decan_dignity": "Mars has no major essential dignity or debility in Pisces",
+      "book_t_title": "Lord of Perfected Success",
+      "book_t_summary": "Shows lasting success and happiness inspired from above, with pleasure, peace-making, kindness, or waste by dignity.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Cups - 10 of Cups",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "2_wands",
+    "card_class": "minor_pip",
+    "suit": "wands",
+    "number": 2,
+    "book_t": {
+      "sephira": "Chokmah",
+      "sephira_qualities": [
+        "initiation",
+        "fecundation",
+        "force just uniting"
+      ],
+      "world": "Atziluth",
+      "element": "Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Mars",
+        "sign": "Aries",
+        "span_degrees": "0-10 degrees",
+        "span_dates_approx": "Mar 21 - Mar 30"
+      },
+      "decan_dignity": "Mars in domicile in Aries",
+      "book_t_title": "Lord of Dominion",
+      "book_t_summary": "Shows strength and rule: domination, courage, ambition, and proud resolution, with obstinacy or revenge possible by dignity.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Wands - 2 of Wands",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "3_wands",
+    "card_class": "minor_pip",
+    "suit": "wands",
+    "number": 3,
+    "book_t": {
+      "sephira": "Binah",
+      "sephira_qualities": [
+        "realization of action",
+        "action definitely commenced"
+      ],
+      "world": "Atziluth",
+      "element": "Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Sun",
+        "sign": "Aries",
+        "span_degrees": "10-20 degrees",
+        "span_dates_approx": "Mar 31 - Apr 10"
+      },
+      "decan_dignity": "Sun in exaltation in Aries",
+      "book_t_title": "Lord of Established Strength",
+      "book_t_summary": "Shows established force and completed labor: strength, hope realized, success after struggle, and pride or insolence by dignity.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Wands - 3 of Wands",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "4_wands",
+    "card_class": "minor_pip",
+    "suit": "wands",
+    "number": 4,
+    "book_t": {
+      "sephira": "Chesed",
+      "sephira_qualities": [
+        "perfection",
+        "realization",
+        "completion",
+        "settled force"
+      ],
+      "world": "Atziluth",
+      "element": "Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Venus",
+        "sign": "Aries",
+        "span_degrees": "20-30 degrees",
+        "span_dates_approx": "Apr 11 - Apr 20"
+      },
+      "decan_dignity": "Venus in detriment in Aries",
+      "book_t_title": "Lord of Perfected Work",
+      "book_t_summary": "Shows perfected work and rest after labor: completion, settlement, mirth and success, with possible instability through haste.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Wands - 4 of Wands",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "5_disks",
+    "card_class": "minor_pip",
+    "suit": "disks",
+    "number": 5,
+    "book_t": {
+      "sephira": "Geburah",
+      "sephira_qualities": [
+        "opposition",
+        "strife",
+        "struggle",
+        "obstacle"
+      ],
+      "world": "Assiah",
+      "element": "Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Mercury",
+        "sign": "Taurus",
+        "span_degrees": "0-10 degrees",
+        "span_dates_approx": "Apr 21 - Apr 30"
+      },
+      "decan_dignity": "Mercury has no major essential dignity or debility in Taurus",
+      "book_t_title": "Lord of Material Trouble",
+      "book_t_summary": "Shows material trouble: loss of money or position, toil, poverty and care, with possible recovery through labor.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Pentacles - 5 of Pentacles",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "6_disks",
+    "card_class": "minor_pip",
+    "suit": "disks",
+    "number": 6,
+    "book_t": {
+      "sephira": "Tiphareth",
+      "sephira_qualities": [
+        "definite accomplishment",
+        "thing carried out"
+      ],
+      "world": "Assiah",
+      "element": "Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Moon",
+        "sign": "Taurus",
+        "span_degrees": "10-20 degrees",
+        "span_dates_approx": "May 1 - May 10"
+      },
+      "decan_dignity": "Moon in exaltation in Taurus",
+      "book_t_title": "Lord of Material Success",
+      "book_t_summary": "Shows success and gain in material undertakings, including influence, rank, prosperity, liberality and justice.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Pentacles - 6 of Pentacles",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "7_disks",
+    "card_class": "minor_pip",
+    "suit": "disks",
+    "number": 7,
+    "book_t": {
+      "sephira": "Netzach",
+      "sephira_qualities": [
+        "force beyond the material plane",
+        "possible result",
+        "dependent on action taken"
+      ],
+      "world": "Assiah",
+      "element": "Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "decan": {
+        "planet": "Saturn",
+        "sign": "Taurus",
+        "span_degrees": "20-30 degrees",
+        "span_dates_approx": "May 11 - May 20"
+      },
+      "decan_dignity": "Saturn has no major essential dignity or debility in Taurus",
+      "book_t_title": "Lord of Success Unfulfilled",
+      "book_t_summary": "Shows promises of success unfulfilled: apparent gains without fruit, disappointment and labor with little result.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Pentacles - 7 of Pentacles",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "8_swords",
+    "card_class": "minor_pip",
+    "suit": "swords",
+    "number": 8,
+    "book_t": {
+      "sephira": "Hod",
+      "sephira_qualities": [
+        "solitary success",
+        "temporary success",
+        "limited result"
+      ],
+      "world": "Yetzirah",
+      "element": "Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Jupiter",
+        "sign": "Gemini",
+        "span_degrees": "0-10 degrees",
+        "span_dates_approx": "May 21 - May 31"
+      },
+      "decan_dignity": "Jupiter in detriment in Gemini",
+      "book_t_title": "Lord of Shortened Force",
+      "book_t_summary": "Shows force narrowed into small matters: restriction, detail-work, pettiness or patient study according to dignity.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Swords - 8 of Swords",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "9_swords",
+    "card_class": "minor_pip",
+    "suit": "swords",
+    "number": 9,
+    "book_t": {
+      "sephira": "Yesod",
+      "sephira_qualities": [
+        "fundamental force",
+        "executive power",
+        "firm basis"
+      ],
+      "world": "Yetzirah",
+      "element": "Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Mars",
+        "sign": "Gemini",
+        "span_degrees": "10-20 degrees",
+        "span_dates_approx": "Jun 1 - Jun 10"
+      },
+      "decan_dignity": "Mars has no major essential dignity or debility in Gemini",
+      "book_t_title": "Lord of Despair and Cruelty",
+      "book_t_summary": "Shows despair and cruelty: suffering, malice, loss and oppression, with faithfulness or patience possible by dignity.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Swords - 9 of Swords",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "10_swords",
+    "card_class": "minor_pip",
+    "suit": "swords",
+    "number": 10,
+    "book_t": {
+      "sephira": "Malkuth",
+      "sephira_qualities": [
+        "fixed complete force",
+        "culmination",
+        "definite determination"
+      ],
+      "world": "Yetzirah",
+      "element": "Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Sun",
+        "sign": "Gemini",
+        "span_degrees": "20-30 degrees",
+        "span_dates_approx": "Jun 11 - Jun 20"
+      },
+      "decan_dignity": "Sun has no major essential dignity or debility in Gemini",
+      "book_t_title": "Lord of Ruin",
+      "book_t_summary": "Shows complete disruption and failure of plans, an undisciplined force ending in ruin, with eloquence possible by dignity.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Swords - 10 of Swords",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "2_cups",
+    "card_class": "minor_pip",
+    "suit": "cups",
+    "number": 2,
+    "book_t": {
+      "sephira": "Chokmah",
+      "sephira_qualities": [
+        "initiation",
+        "fecundation",
+        "force just uniting"
+      ],
+      "world": "Briah",
+      "element": "Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Venus",
+        "sign": "Cancer",
+        "span_degrees": "0-10 degrees",
+        "span_dates_approx": "Jun 21 - Jul 1"
+      },
+      "decan_dignity": "Venus has no major essential dignity or debility in Cancer",
+      "book_t_title": "Lord of Love",
+      "book_t_summary": "Shows harmonious union of masculine and feminine, pleasure and mirth, with waste or folly when ill dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Cups - 2 of Cups",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "3_cups",
+    "card_class": "minor_pip",
+    "suit": "cups",
+    "number": 3,
+    "book_t": {
+      "sephira": "Binah",
+      "sephira_qualities": [
+        "realization of action",
+        "action definitely commenced"
+      ],
+      "world": "Briah",
+      "element": "Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Mercury",
+        "sign": "Cancer",
+        "span_degrees": "10-20 degrees",
+        "span_dates_approx": "Jul 2 - Jul 11"
+      },
+      "decan_dignity": "Mercury has no major essential dignity or debility in Cancer",
+      "book_t_title": "Lord of Abundance",
+      "book_t_summary": "Shows overflowing plenty and passive success: pleasure, good fortune, gladness, kindness and liberality.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Cups - 3 of Cups",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "4_cups",
+    "card_class": "minor_pip",
+    "suit": "cups",
+    "number": 4,
+    "book_t": {
+      "sephira": "Chesed",
+      "sephira_qualities": [
+        "perfection",
+        "realization",
+        "completion",
+        "settled force"
+      ],
+      "world": "Briah",
+      "element": "Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "decan": {
+        "planet": "Moon",
+        "sign": "Cancer",
+        "span_degrees": "20-30 degrees",
+        "span_dates_approx": "Jul 12 - Jul 21"
+      },
+      "decan_dignity": "Moon in domicile in Cancer",
+      "book_t_title": "Lord of Blended Pleasure",
+      "book_t_summary": "Shows pleasure near a stationary point or decline, receiving pleasure with some discomfort and possible drawbacks.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Suit of Cups - 4 of Cups",
+        "page": null
+      }
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  }
+]

@@ -1,0 +1,586 @@
+[
+  {
+    "id": "king_of_wands",
+    "card_class": "court",
+    "suit": "wands",
+    "rank_book_t": "King",
+    "rank_rws_equivalent": "King",
+    "rank_thoth_equivalent": "Knight",
+    "book_t": {
+      "element_compound": "Fire of Fire",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "zodiacal_span": {
+        "start": "20 Scorpio",
+        "end": "20 Sagittarius"
+      },
+      "rules_decans": [
+        "20-30 Scorpio",
+        "0-10 Sagittarius",
+        "10-20 Sagittarius"
+      ],
+      "book_t_title": "The Lord of the Flame and the Lightning; The King of the Spirits of Fire",
+      "book_t_summary": "Described as active, generous, fierce, sudden and impetuous, turning cruel or brutal when ill dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - Knight of Wands",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "queen_of_wands",
+    "card_class": "court",
+    "suit": "wands",
+    "rank_book_t": "Queen",
+    "rank_rws_equivalent": "Queen",
+    "rank_thoth_equivalent": "Queen",
+    "book_t": {
+      "element_compound": "Water of Fire",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "zodiacal_span": {
+        "start": "20 Pisces",
+        "end": "20 Aries"
+      },
+      "rules_decans": [
+        "20-30 Pisces",
+        "0-10 Aries",
+        "10-20 Aries"
+      ],
+      "book_t_title": "The Queen of the Thrones of Flame",
+      "book_t_summary": "Adaptable steady force, rule and attractive command; generous when unopposed, but tyrannical or revengeful when ill dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - Queen of Wands",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "prince_of_wands",
+    "card_class": "court",
+    "suit": "wands",
+    "rank_book_t": "Prince",
+    "rank_rws_equivalent": "Knight",
+    "rank_thoth_equivalent": "Prince",
+    "book_t": {
+      "element_compound": "Air of Fire",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "zodiacal_span": {
+        "start": "20 Cancer",
+        "end": "20 Leo"
+      },
+      "rules_decans": [
+        "20-30 Cancer",
+        "0-10 Leo",
+        "10-20 Leo"
+      ],
+      "book_t_title": "The Prince of the Chariot of Fire",
+      "book_t_summary": "Swift, strong and hasty, just and generous, but capable of cruelty and prejudice when ill dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - King of Wands",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "princess_of_wands",
+    "card_class": "court",
+    "suit": "wands",
+    "rank_book_t": "Princess",
+    "rank_rws_equivalent": "Page",
+    "rank_thoth_equivalent": "Princess",
+    "book_t": {
+      "element_compound": "Earth of Fire",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "zodiacal_span": null,
+      "rules_decans": null,
+      "book_t_title": "The Princess of the Shining Flame; The Rose of the Palace of Fire",
+      "book_t_summary": "Brilliance, courage, beauty and force, sudden in anger or love, with superficiality or instability when ill dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - Knave of Wands",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound.",
+      "celestial_quadrant": "one quadrant of the portion around the North Pole"
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "king_of_cups",
+    "card_class": "court",
+    "suit": "cups",
+    "rank_book_t": "King",
+    "rank_rws_equivalent": "King",
+    "rank_thoth_equivalent": "Knight",
+    "book_t": {
+      "element_compound": "Fire of Water",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "zodiacal_span": {
+        "start": "20 Aquarius",
+        "end": "20 Pisces"
+      },
+      "rules_decans": [
+        "20-30 Aquarius",
+        "0-10 Pisces",
+        "10-20 Pisces"
+      ],
+      "book_t_title": "The Lord of the Waves and the Waters; The King of the Hosts of the Sea",
+      "book_t_summary": "Graceful, poetic and indolent but enthusiastic when stirred, becoming sensual, idle or untruthful when ill dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - Knight of Cups",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "queen_of_cups",
+    "card_class": "court",
+    "suit": "cups",
+    "rank_book_t": "Queen",
+    "rank_rws_equivalent": "Queen",
+    "rank_thoth_equivalent": "Queen",
+    "book_t": {
+      "element_compound": "Water of Water",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "zodiacal_span": {
+        "start": "20 Gemini",
+        "end": "20 Cancer"
+      },
+      "rules_decans": [
+        "20-30 Gemini",
+        "0-10 Cancer",
+        "10-20 Cancer"
+      ],
+      "book_t_title": "The Queen of the Thrones of the Waters",
+      "book_t_summary": "Imaginative, poetic and kind under a dreamy appearance, strongly affected by surrounding influences.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - Queen of Cups",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "prince_of_cups",
+    "card_class": "court",
+    "suit": "cups",
+    "rank_book_t": "Prince",
+    "rank_rws_equivalent": "Knight",
+    "rank_thoth_equivalent": "Prince",
+    "book_t": {
+      "element_compound": "Air of Water",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "zodiacal_span": {
+        "start": "20 Libra",
+        "end": "20 Scorpio"
+      },
+      "rules_decans": [
+        "20-30 Libra",
+        "0-10 Scorpio",
+        "10-20 Scorpio"
+      ],
+      "book_t_title": "The Prince of the Chariot of the Waters",
+      "book_t_summary": "Subtle, violent, crafty and artistic with a calm exterior, powerful for good or evil according to alliance and dignity.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - King of Cups",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "princess_of_cups",
+    "card_class": "court",
+    "suit": "cups",
+    "rank_book_t": "Princess",
+    "rank_rws_equivalent": "Page",
+    "rank_thoth_equivalent": "Princess",
+    "book_t": {
+      "element_compound": "Earth of Water",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "zodiacal_span": null,
+      "rules_decans": null,
+      "book_t_title": "The Princess of the Waters; The Lotus of the Palace of the Floods",
+      "book_t_summary": "Sweet, poetic, gentle and kind, dreamy or indolent yet courageous when roused, selfish or luxurious when ill dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - Knave of Cups",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound.",
+      "celestial_quadrant": "a quadrant of the heavens around Kether"
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "king_of_swords",
+    "card_class": "court",
+    "suit": "swords",
+    "rank_book_t": "King",
+    "rank_rws_equivalent": "King",
+    "rank_thoth_equivalent": "Knight",
+    "book_t": {
+      "element_compound": "Fire of Air",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "zodiacal_span": {
+        "start": "20 Taurus",
+        "end": "20 Gemini"
+      },
+      "rules_decans": [
+        "20-30 Taurus",
+        "0-10 Gemini",
+        "10-20 Gemini"
+      ],
+      "book_t_title": "The Lord of the Winds and the Breezes; The King of the Spirits of Air",
+      "book_t_summary": "Active, clever, subtle, fierce and skillful, with domineering, deceitful or tyrannical tendencies when ill dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - Knight of Swords",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "queen_of_swords",
+    "card_class": "court",
+    "suit": "swords",
+    "rank_book_t": "Queen",
+    "rank_rws_equivalent": "Queen",
+    "rank_thoth_equivalent": "Queen",
+    "book_t": {
+      "element_compound": "Water of Air",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "zodiacal_span": {
+        "start": "20 Virgo",
+        "end": "20 Libra"
+      },
+      "rules_decans": [
+        "20-30 Virgo",
+        "0-10 Libra",
+        "10-20 Libra"
+      ],
+      "book_t_title": "The Queen of the Thrones of Air",
+      "book_t_summary": "Keenly perceptive, observant, subtle and confident, but cruel, sly or unreliable when ill dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - Queen of Swords",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "prince_of_swords",
+    "card_class": "court",
+    "suit": "swords",
+    "rank_book_t": "Prince",
+    "rank_rws_equivalent": "Knight",
+    "rank_thoth_equivalent": "Prince",
+    "book_t": {
+      "element_compound": "Air of Air",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "zodiacal_span": {
+        "start": "20 Capricorn",
+        "end": "20 Aquarius"
+      },
+      "rules_decans": [
+        "20-30 Capricorn",
+        "0-10 Aquarius",
+        "10-20 Aquarius"
+      ],
+      "book_t_title": "The Prince of the Chariot of the Winds",
+      "book_t_summary": "Full of ideas and designs, suspicious and careful, creating and destroying rapidly; harsh or malicious when ill dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - King of Swords",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "princess_of_swords",
+    "card_class": "court",
+    "suit": "swords",
+    "rank_book_t": "Princess",
+    "rank_rws_equivalent": "Page",
+    "rank_thoth_equivalent": "Princess",
+    "book_t": {
+      "element_compound": "Earth of Air",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "zodiacal_span": null,
+      "rules_decans": null,
+      "book_t_title": "The Princess of the Rushing Winds; The Lotus of the Palace of Air",
+      "book_t_summary": "Wisdom, strength, acuity and dexterity in material things, becoming frivolous and cunning when ill dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - Knave of Swords",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound.",
+      "celestial_quadrant": "a quadrant of the heavens around Kether"
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "king_of_disks",
+    "card_class": "court",
+    "suit": "disks",
+    "rank_book_t": "King",
+    "rank_rws_equivalent": "King",
+    "rank_thoth_equivalent": "Knight",
+    "book_t": {
+      "element_compound": "Fire of Earth",
+      "primary_qualities": [
+        "hot",
+        "dry"
+      ],
+      "zodiacal_span": {
+        "start": "20 Leo",
+        "end": "20 Virgo"
+      },
+      "rules_decans": [
+        "20-30 Leo",
+        "0-10 Virgo",
+        "10-20 Virgo"
+      ],
+      "book_t_title": "The Lord of the Wide and Fertile Land; The King of the Spirits of Earth",
+      "book_t_summary": "Laborious, clever and patient in material matters, but heavy or dull unless well dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - Knight of Pentacles",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "queen_of_disks",
+    "card_class": "court",
+    "suit": "disks",
+    "rank_book_t": "Queen",
+    "rank_rws_equivalent": "Queen",
+    "rank_thoth_equivalent": "Queen",
+    "book_t": {
+      "element_compound": "Water of Earth",
+      "primary_qualities": [
+        "cold",
+        "moist"
+      ],
+      "zodiacal_span": {
+        "start": "20 Sagittarius",
+        "end": "20 Capricorn"
+      },
+      "rules_decans": [
+        "20-30 Sagittarius",
+        "0-10 Capricorn",
+        "10-20 Capricorn"
+      ],
+      "book_t_title": "The Queen of the Thrones of Earth",
+      "book_t_summary": "Impetuous, kind, timid, charming and intelligent, but undecided or capricious when ill dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - Queen of Pentacles",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "prince_of_disks",
+    "card_class": "court",
+    "suit": "disks",
+    "rank_book_t": "Prince",
+    "rank_rws_equivalent": "Knight",
+    "rank_thoth_equivalent": "Prince",
+    "book_t": {
+      "element_compound": "Air of Earth",
+      "primary_qualities": [
+        "hot",
+        "moist"
+      ],
+      "zodiacal_span": {
+        "start": "20 Aries",
+        "end": "20 Taurus"
+      },
+      "rules_decans": [
+        "20-30 Aries",
+        "0-10 Taurus",
+        "10-20 Taurus"
+      ],
+      "book_t_title": "The Prince of the Chariot of Earth",
+      "book_t_summary": "Increases and solidifies matter, practically applying things with steadiness and reliability; selfish or stupid when ill dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - King of Pentacles",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound."
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  },
+  {
+    "id": "princess_of_disks",
+    "card_class": "court",
+    "suit": "disks",
+    "rank_book_t": "Princess",
+    "rank_rws_equivalent": "Page",
+    "rank_thoth_equivalent": "Princess",
+    "book_t": {
+      "element_compound": "Earth of Earth",
+      "primary_qualities": [
+        "cold",
+        "dry"
+      ],
+      "zodiacal_span": null,
+      "rules_decans": null,
+      "book_t_title": "Princess of the Echoing Hills; Rose of the Palace of Earth",
+      "book_t_summary": "Generous, diligent, benevolent, careful, courageous and persevering, becoming wasteful when ill dignified.",
+      "source": {
+        "primary": "Regardie, The Golden Dawn (Llewellyn 6th ed.), Book T section",
+        "section_label": "Book T: The Sixteen, or Royal, Cards - Knave of Pentacles",
+        "page": null
+      },
+      "notes": "Primary qualities use the rank/outer element; the suit element is the inner modulation in the compound.",
+      "celestial_quadrant": "one quadrant of the heavens around the North Pole of the Ecliptic"
+    },
+    "overlays": {
+      "rws": null,
+      "thoth": null,
+      "marseille": null
+    },
+    "_status": "ok"
+  }
+]
