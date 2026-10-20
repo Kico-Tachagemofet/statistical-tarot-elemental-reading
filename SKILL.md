@@ -5,7 +5,16 @@ description: 统计塔罗五位置牌阵（火／水／风／土各 14 张、大
 
 # 统计塔罗四元素理气（五位置 SOP）
 
-> 状态：v3.2，2026-10-17。风偏少先看火；版本记录见 [CHANGELOG.md](CHANGELOG.md)。
+> 状态：v3.3，2026-10-17。风偏少先看火；版本记录见 [CHANGELOG.md](CHANGELOG.md)。
+
+
+## 大阿卡纳牌意 DLC
+
+本轮开始检查牌意包开关与版本；启用时必须读取并执行
+[references/meaning-pack.md](references/meaning-pack.md)，将完整正文实际用于解读，
+保留 `meaning_use` 短引与用途。此资料层不替代后续方法流程。
+公开安装默认关闭，私有安装按本地配置；切换只更新资料与解读，沿用原抽取。
+
 
 ## 立场
 

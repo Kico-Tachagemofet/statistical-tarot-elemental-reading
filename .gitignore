@@ -4,3 +4,6 @@ __pycache__/
 
 # 运行产物：抽取记录与解读里有提问原句，建议放在仓库之外
 runs/
+
+# Local installation preferences
+meanings.local.json

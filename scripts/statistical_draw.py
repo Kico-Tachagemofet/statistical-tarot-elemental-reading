@@ -33,6 +33,12 @@ from datetime import datetime
 from pathlib import Path
 from random import SystemRandom
 
+# Shared DLC reader; file-based import also supports relocated skill installs.
+_meaning_spec = importlib.util.spec_from_file_location(
+    "kico_card_meanings_reader", Path(__file__).resolve().parent / "card_meanings.py")
+_meanings = importlib.util.module_from_spec(_meaning_spec)
+_meaning_spec.loader.exec_module(_meanings)
+
 HERE = Path(__file__).resolve().parent
 DEFAULT_DATA_DIR = HERE.parent / "data" / "tarot"
 DEFAULT_PHASE3 = HERE.parent.parent / "symbol-anchor-check" / "phase3_unfold.py"
@@ -167,7 +173,23 @@ def main() -> int:
     ap.add_argument("--data-dir", default=str(DEFAULT_DATA_DIR), help="Book T 数据目录（含 atu/pips/courts.json），默认用 skill 自带的")
     ap.add_argument("--phase3", default=str(DEFAULT_PHASE3), help="symbol-anchor-check 的 phase3_unfold.py；默认找同一 skills 目录下的")
     ap.add_argument("--meanings-dir", default=None, help="自定大牌牌意目录（可选）")
+    ap.add_argument("--meanings-numbering", choices=("book-t", "rws"), default="book-t",
+                    help="Identity convention for legacy --meanings-dir filenames")
+    group = ap.add_mutually_exclusive_group()
+    group.add_argument("--meanings-pack", help="Enable a validated major-arcana DLC directory")
+    group.add_argument("--no-meanings", action="store_true", help="Disable DLC and override local defaults")
     args = ap.parse_args()
+    if args.draws <= 0:
+        ap.error("--draws must be positive")
+    if args.meanings_dir and (args.meanings_pack or args.no_meanings):
+        ap.error("Legacy meanings directory cannot be combined with DLC on/off flags")
+    try:
+        pack_path = _meanings.resolve_pack(
+            args.meanings_pack, disabled=args.no_meanings or bool(args.meanings_dir),
+            config_dir=HERE.parent)
+        meaning_pack = _meanings.MeaningPack(pack_path) if pack_path else None
+    except _meanings.MeaningPackError as exc:
+        ap.error(str(exc))
     for stream in (sys.stdout, sys.stderr):
         try:
             stream.reconfigure(encoding="utf-8")
@@ -199,6 +221,7 @@ def main() -> int:
     protocol = {
         "version": 3,
         "question": args.question,
+        "meaning_pack_at_draw": meaning_pack.select([])["receipt"] if meaning_pack else _meanings.disabled_receipt(),
         "prepared_at": now_iso(),
         "draws": n,
         "spread": "五位置：火位／水位／风位／土位各 14 张（10 数字牌 + 4 宫廷牌），大阿卡那位 22 张",
@@ -278,7 +301,7 @@ def main() -> int:
                     h["property_unfolding_error"] = repr(exc)
             if pk == "major":
                 bt_elem = bt.get("element")
-                mc = meanings.get(card["number"])
+                mc = meanings.get(({8: 11, 11: 8}.get(card["number"], card["number"]) if args.meanings_numbering == "rws" else card["number"]))
                 tag, src = None, None
                 if bt_elem:
                     tag, src = bt_elem, "Book T"
@@ -295,6 +318,8 @@ def main() -> int:
             "count": total, "expected": n / n_piles, "sd": pile_sd, "z": (total - n / n_piles) / pile_sd,
             "card_expected": exp_card, "card_sd": sd_card, "cards": rows, "highlights": highlights,
         })
+    if not args.meanings_dir:
+        stats = _meanings.enrich_statistics(stats, meaning_pack)
     (out / "statistics.json").write_text(json.dumps(stats, ensure_ascii=False, indent=1), encoding="utf-8")
 
     write_position_cards(out, stats)
@@ -337,6 +362,12 @@ def write_position_cards(out: Path, stats: dict) -> None:
              f"堆：{pl['label']}（{pl['element'] or '大阿卡那'}，{pl['size']} 张）。本堆被抽到 {pl['count']} 次，预期 {pl['expected']:.1f}，z={pl['z']:+.2f}。",
              f"本堆每张牌预期 {pl['card_expected']:.2f} 次，sd {pl['card_sd']:.2f}。分段：|z|<1 接近基线；1–2 普通偏离；≥2 极端候选。", "",
              "## 全部牌（按 z 降序）", "", "| 牌 | 次数 | 正／逆 | z | 分段 | 校正 p |", "|---|---:|---|---:|---|---:|"]
+        if pl["key"] == "major" and "meaning_pack" in stats:
+            pack_info = stats["meaning_pack"]
+            status = (f"{pack_info['pack_id']} v{pack_info['version']}; "
+                      f"loaded: {', '.join(pack_info['loaded_card_ids'])}"
+                      if pack_info["enabled"] else "disabled")
+            L[4:4] = [f"牌意 DLC：{status}", ""]
         for r in pl["cards"]:
             L.append(f"| {r['zh']} | {r['count']} | {r['upright']}／{r['reversed']} | {r['z']:+.2f} | {r['band']} | {r['p_holm']:.3f} |")
         L += ["", "## 突出牌（普通偏离与极端候选）", ""]

@@ -88,3 +88,17 @@ python -I scripts/statistical_draw.py --question "本次的问题原句" --out r
 - 方法卡引用的原典与译本不适用本仓库的许可证。
 
 Copyright (c) 2026 Kico-Tachagemofet
+
+
+## 可选 Kico 大阿卡纳牌意 DLC
+
+支持 [Kico 大阿卡纳牌意 v1.0.0](https://github.com/Kico-Tachagemofet/kico-tarot-meanings)。
+安装本 skill 不自动启用或下载正文。使用 `--meanings-pack <包目录>` 开启，
+`--no-meanings` 显式关闭；错误会明确报告。
+正文按本次需要加载，并记录包版本、单牌版本、校验值和文本 token 增量。
+
+解读须执行 [牌意接入说明](references/meaning-pack.md)。
+网站接入与已有结果切换见
+[HANDOFF](https://github.com/Kico-Tachagemofet/kico-tarot-meanings/blob/main/HANDOFF.md)。
+正文独立采用 CC BY-NC-SA 4.0；内置 `card_meanings.py` 读取器采用 MIT，
+版权声明见 `LICENSE-MEANING-READER`，不会改变本仓库其他内容的许可。
