@@ -1,0 +1,4 @@
+interface:
+  display_name: "玄学能力与体系压力测试"
+  short_description: "从统计塔罗读出能力与长处，再把个人画像放进具体玄学体系做任务压力测试"
+  default_prompt: "用 $mystic-talent-report 基于已有统计塔罗材料，先写能力画像，再对选定体系做压力测试并生成报告。"

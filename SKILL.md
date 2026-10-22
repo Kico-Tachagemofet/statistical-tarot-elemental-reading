@@ -7,6 +7,10 @@ description: 统计塔罗五位置牌阵（火／水／风／土各 14 张、大
 
 > 状态：v3.3，2026-10-17。风偏少先看火；版本记录见 [CHANGELOG.md](CHANGELOG.md)。
 
+## 可选专题成稿
+
+用户要求玄学天赋、神秘学能力与体系匹配报告时，可在本方法之上使用 [mystic-talent-report](addons/mystic-talent-report/SKILL.md)：本 SOP 负责原抽样与阶段 0–3，扩展负责占星加色、能力画像、领域压力测试和最终报告。已由该扩展调用本 SOP 时，继续提供方法层，不重复路由或抽取。一般问题仍按本 SOP 的原输出完成。
+
 
 ## 大阿卡纳牌意 DLC
 
