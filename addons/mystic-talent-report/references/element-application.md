@@ -6,7 +6,7 @@
 
 ## 读取范围与本次变更
 
-按入口解析的 `BASE_SKILL`，完整读取其 `references/water.md`、`earth.md`；四元素合议同时读取 `fire.md`、`air.md`、`properties.md`、`relations.md`、`combinations.md`。这七页均位于 `BASE_SKILL/references/`，不调用旧 SOP 的解读编排。
+按入口的步骤 2，完整读取 `BASE_SKILL/references/` 中的 `fire.md`、`water.md`、`air.md`、`earth.md` 及 `properties.md`，用于各元素的形态谱与功能展开。步骤 3 再读取 `relations.md`、`combinations.md`，分析跨元素作用并合议全场状态。
 正文中的原典说明、实例与来源表仍属于原方法；本页只覆盖下面列出的应用推断。
 
 | 原方法的应用规则 | 本专题怎样使用 | 判定成立还需要什么 |
