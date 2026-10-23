@@ -6,7 +6,7 @@
 
 - 只要抽取与统计页面、不需要解读：用已公开的 [statistical-tarot](https://github.com/Kico-Tachagemofet/statistical-tarot)，抽样口径相同。
 - 数据卡里的属性展开（源质、旬星、路径的说明文字）来自 [symbol-anchor-check](https://github.com/Kico-Tachagemofet/symbol-anchor-check) 的 `phase3_unfold.py`。两个 Skill 装在同一个 skills 目录时自动使用；没有它也能完整运行，只是少了这一层说明。
-- 需要玄学能力与体系报告：使用随附的 [mystic-talent-report v0.2.1 扩展](addons/mystic-talent-report/README.md)。先读能力与长处，再把画像放进所选的 3–5 个体系做任务压力测试；沿用原抽样。
+- 需要玄学能力与体系报告：使用随附的 [mystic-talent-report v0.3.0 扩展](addons/mystic-talent-report/README.md)。先读能力与长处，再把画像放进所选的 3–5 个体系做任务压力测试；沿用原抽样。
 
 ## 需要什么
 
